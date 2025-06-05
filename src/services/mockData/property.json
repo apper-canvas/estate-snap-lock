@@ -1,0 +1,374 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft",
+    "price": 650000,
+    "address": {
+      "street": "123 Urban Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1200,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Stunning modern loft in the heart of downtown with panoramic city views. Features high ceilings, exposed brick walls, and premium finishes throughout. Walking distance to public transportation and trendy restaurants.",
+    "features": [
+      "Hardwood Floors",
+      "Stainless Steel Appliances",
+      "In-Unit Laundry",
+      "Balcony",
+      "Gym Access",
+      "Rooftop Deck"
+    ],
+    "listingDate": "2024-01-15T00:00:00.000Z",
+    "yearBuilt": 2018
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian House",
+    "price": 850000,
+    "address": {
+      "street": "456 Heritage Lane",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97201"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Beautiful Victorian home with original architectural details perfectly preserved. This home features ornate woodwork, stained glass windows, and a wrap-around porch. Located in a quiet residential neighborhood.",
+    "features": [
+      "Original Hardwood",
+      "Fireplace",
+      "Garden",
+      "Wrap-around Porch",
+      "Updated Kitchen",
+      "Basement Storage"
+    ],
+    "listingDate": "2024-01-20T00:00:00.000Z",
+    "yearBuilt": 1895
+  },
+  {
+    "id": "3",
+    "title": "Luxury Ocean View Condo",
+    "price": 1200000,
+    "address": {
+      "street": "789 Coastal Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33139"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFootage": 2100,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Spectacular oceanfront condominium with floor-to-ceiling windows and breathtaking views. This luxury unit features premium finishes, a gourmet kitchen, and a spacious master suite. Building amenities include pool, spa, and concierge.",
+    "features": [
+      "Ocean Views",
+      "Floor-to-Ceiling Windows",
+      "Gourmet Kitchen",
+      "Master Suite",
+      "Concierge Service",
+      "Pool & Spa"
+    ],
+    "listingDate": "2024-01-10T00:00:00.000Z",
+    "yearBuilt": 2020
+  },
+  {
+    "id": "4",
+    "title": "Cozy Suburban Townhouse",
+    "price": 425000,
+    "address": {
+      "street": "321 Maple Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78704"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1350,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Perfect starter home in a family-friendly neighborhood. This well-maintained townhouse offers an open floor plan, updated appliances, and a private patio. Great schools and parks nearby.",
+    "features": [
+      "Open Floor Plan",
+      "Updated Appliances",
+      "Private Patio",
+      "Two-Car Garage",
+      "Central Air",
+      "HOA Amenities"
+    ],
+    "listingDate": "2024-01-25T00:00:00.000Z",
+    "yearBuilt": 2010
+  },
+  {
+    "id": "5",
+    "title": "Mountain View Villa",
+    "price": 1850000,
+    "address": {
+      "street": "987 Peak Road",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80401"
+    },
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 3500,
+    "propertyType": "Villa",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Magnificent villa with panoramic mountain views and luxury amenities. This custom-built home features soaring ceilings, a gourmet kitchen, wine cellar, and expansive outdoor entertaining areas.",
+    "features": [
+      "Mountain Views",
+      "Wine Cellar",
+      "Home Theater",
+      "Three-Car Garage",
+      "Pool & Spa",
+      "Guest House"
+    ],
+    "listingDate": "2024-01-05T00:00:00.000Z",
+    "yearBuilt": 2015
+  },
+  {
+    "id": "6",
+    "title": "Urban Studio Apartment",
+    "price": 285000,
+    "address": {
+      "street": "654 City Plaza",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 550,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Efficient studio apartment in a prime downtown location. Features modern fixtures, a murphy bed, and large windows with city views. Perfect for young professionals or students.",
+    "features": [
+      "Murphy Bed",
+      "Large Windows",
+      "Modern Kitchen",
+      "Hardwood Floors",
+      "Building Gym",
+      "Rooftop Access"
+    ],
+    "listingDate": "2024-02-01T00:00:00.000Z",
+    "yearBuilt": 2019
+  },
+  {
+    "id": "7",
+    "title": "Historic Brownstone",
+    "price": 925000,
+    "address": {
+      "street": "147 Heritage Row",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02101"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2200,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5076?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600047509358-9dc75507daeb?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Elegant brownstone in a historic neighborhood with original period details. Recently renovated while maintaining its classic charm. Features include a formal dining room, library, and private garden.",
+    "features": [
+      "Original Details",
+      "Formal Dining",
+      "Library",
+      "Private Garden",
+      "Renovated Kitchen",
+      "Historic District"
+    ],
+    "listingDate": "2024-01-18T00:00:00.000Z",
+    "yearBuilt": 1890
+  },
+  {
+    "id": "8",
+    "title": "Lakefront Cabin",
+    "price": 575000,
+    "address": {
+      "street": "88 Lakeshore Drive",
+      "city": "Lake Tahoe",
+      "state": "CA",
+      "zip": "96150"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1600,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1520637836862-4d197d17c11a?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Charming lakefront cabin with private beach access and stunning water views. Perfect for weekend getaways or full-time mountain living. Features a stone fireplace, wrap-around deck, and boat dock.",
+    "features": [
+      "Lake Access",
+      "Private Beach",
+      "Stone Fireplace",
+      "Wrap-around Deck",
+      "Boat Dock",
+      "Mountain Views"
+    ],
+    "listingDate": "2024-01-12T00:00:00.000Z",
+    "yearBuilt": 1985
+  },
+  {
+    "id": "9",
+    "title": "Modern Penthouse",
+    "price": 2200000,
+    "address": {
+      "street": "500 Sky Tower",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "squareFootage": 2800,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Luxurious penthouse with 360-degree city views and premium amenities. This architectural masterpiece features floor-to-ceiling windows, a private elevator, and a rooftop terrace with outdoor kitchen.",
+    "features": [
+      "360-Degree Views",
+      "Private Elevator",
+      "Rooftop Terrace",
+      "Outdoor Kitchen",
+      "Smart Home Tech",
+      "Concierge Service"
+    ],
+    "listingDate": "2024-01-08T00:00:00.000Z",
+    "yearBuilt": 2021
+  },
+  {
+    "id": "10",
+    "title": "Family Ranch Home",
+    "price": 485000,
+    "address": {
+      "street": "202 Country Lane",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 2000,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Spacious ranch-style home perfect for families. Features an open concept living area, large backyard, and attached two-car garage. Located in a quiet neighborhood with excellent schools nearby.",
+    "features": [
+      "Open Concept",
+      "Large Backyard",
+      "Two-Car Garage",
+      "Master Suite",
+      "Walk-in Closets",
+      "Excellent Schools"
+    ],
+    "listingDate": "2024-01-30T00:00:00.000Z",
+    "yearBuilt": 2005
+  },
+  {
+    "id": "11",
+    "title": "Artistic Loft Space",
+    "price": 395000,
+    "address": {
+      "street": "75 Arts District",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFootage": 900,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Creative loft space in the heart of the arts district. High ceilings, exposed ductwork, and large windows create the perfect atmosphere for artists and creatives. Walking distance to galleries and studios.",
+    "features": [
+      "High Ceilings",
+      "Exposed Ductwork",
+      "Large Windows",
+      "Arts District",
+      "Gallery Access",
+      "Creative Community"
+    ],
+    "listingDate": "2024-02-03T00:00:00.000Z",
+    "yearBuilt": 1995
+  },
+  {
+    "id": "12",
+    "title": "Countryside Estate",
+    "price": 1650000,
+    "address": {
+      "street": "1200 Rolling Hills",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40201"
+    },
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "squareFootage": 4200,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600566752734-eb8501736bfe?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop&crop=entropy&cs=tinysrgb"
+    ],
+    "description": "Magnificent estate on 10 acres of rolling countryside. This custom home features a grand foyer, formal dining room, library, and multiple fireplaces. Perfect for entertaining with a pool house and tennis court.",
+    "features": [
+      "10 Acres",
+      "Grand Foyer",
+      "Multiple Fireplaces",
+      "Pool House",
+      "Tennis Court",
+      "Horse Stable"
+    ],
+    "listingDate": "2024-01-22T00:00:00.000Z",
+    "yearBuilt": 2008
+  }
+]
